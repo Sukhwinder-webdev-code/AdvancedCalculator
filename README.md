@@ -38,6 +38,9 @@ The application is designed to simulate the functionality of a standard calculat
 - View results instantly on the display screen.
 - Clear calculations and start new operations as needed.
 
+## screenshots
+![Home Page](assets/home.png)
+
 ## future-improvements
 - Dark and light mode themes
 - React.js implementation
