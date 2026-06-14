@@ -3,6 +3,7 @@ The Advanced Calculator Application is a responsive web-based calculator built u
 
 - [Live Demo](https://advanced-calculator-cqzfff1rk-sukhwinder-s-projects.vercel.app)
 
+## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
