@@ -1,7 +1,7 @@
 # AdvancedCalculator
 The Advanced Calculator Application is a responsive web-based calculator built using HTML, CSS, and JavaScript. It provides users with a fast and intuitive interface for performing mathematical calculations, including addition, subtraction, multiplication, division, percentage operations, and decimal calculations.
 
-- [Live Demo](https://advanced-calculator-cqzfff1rk-sukhwinder-s-projects.vercel.app)
+- [Live Demo](https://advanced-calculator-lake.vercel.app)
 
 ## Table of Contents
 - [Overview](#overview)
